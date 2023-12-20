@@ -1,4 +1,4 @@
-# Day 4: Basics/Comparison.js
+# 4. Comparison.js
 
 In today's learning, we focus on comparison operations in JavaScript and explore some peculiar cases that may cause confusion.
 
