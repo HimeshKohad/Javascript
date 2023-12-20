@@ -1,4 +1,4 @@
-# Day 1: Basics/Variables.js
+# 1. Variables.js
 
 Today's learning includes understanding the basics of variables in JavaScript. Let's explore the key concepts through the provided JavaScript file.
 
