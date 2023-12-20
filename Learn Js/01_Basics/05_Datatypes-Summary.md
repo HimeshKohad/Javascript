@@ -1,4 +1,4 @@
-# Day 5: Basics/Datatypes-Summary.js
+# 5. Datatypes-Summary.js
 
 In today's learning, we explore primitive and reference (non-primitive) data types in JavaScript.
 
