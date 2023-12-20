@@ -1,4 +1,4 @@
-# Day 2: Basics/Datatypes.js
+# 2. Datatypes.js
 
 In today's learning, we delve into data types in JavaScript. The code provided covers various data types and their characteristics.
 
