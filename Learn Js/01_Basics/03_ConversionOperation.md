@@ -1,4 +1,4 @@
-# Day 3: Basics/ConversionOperation.js
+# 3. ConversionOperation.js
 
 In today's learning, we explore conversion operations and various mathematical and string operations in JavaScript.
 
